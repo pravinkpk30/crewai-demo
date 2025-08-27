@@ -1,0 +1,7 @@
+crewai
+crewai_tools
+google-generativeai
+python-dotenv
+embedchain
+load_dotenv
+embedchain[google]
